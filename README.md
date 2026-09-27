@@ -240,3 +240,9 @@ LLM
      ↓
 Grounded Answer
 
+
+Technologies
+
+Python FastAPI LangChain FAISS OpenAI Embeddings Hugging Face Ollama
+
+<br> <a href="https://github.com/Pavanyata999/hackrx-fastapi-qa"> <img src="https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github&logoColor=white"/> </a>
