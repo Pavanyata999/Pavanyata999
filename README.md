@@ -32,11 +32,11 @@
 
 I am an **Artificial Intelligence engineer focused on building practical AI systems** across Generative AI, Agentic AI, Machine Learning, Computer Vision, and GeoAI.
 
-I completed my **B.Tech in Artificial Intelligence at Anurag University, Hyderabad**, where I worked on a range of AI and machine learning projects involving real-world datasets, satellite imagery, computer vision, and LLM-based applications.
+I completed my **B.Tech in Artificial Intelligence at Anurag University, Hyderabad**, where I worked on AI and machine learning projects involving real-world datasets, satellite imagery, computer vision, and LLM-based applications.
 
 I also gained research experience with **NRSC – ISRO**, working with satellite and precipitation data for AI-driven environmental intelligence.
 
-My interests have gradually moved from building individual ML models toward building **complete AI systems** — from data processing and model development to retrieval, LLM integration, APIs, and deployment.
+My work has gradually moved from building individual ML models toward building **complete AI systems** — from data processing and model development to retrieval, LLM integration, APIs, and deployment.
 
 I enjoy understanding how things work under the hood and turning an idea into something that can actually be used.
 
@@ -239,10 +239,31 @@ Relevant Context
 LLM
      ↓
 Grounded Answer
-
-
 Technologies
 
 Python FastAPI LangChain FAISS OpenAI Embeddings Hugging Face Ollama
 
 <br> <a href="https://github.com/Pavanyata999/hackrx-fastapi-qa"> <img src="https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github&logoColor=white"/> </a>
+Experience
+Research Intern — NRSC, ISRO
+
+Worked on AI-driven analysis of satellite and precipitation data, with a focus on using machine learning and scientific data processing for environmental intelligence.
+
+Areas of Work
+Satellite data processing
+GeoAI
+Remote sensing
+Precipitation intelligence
+Deep learning
+Computer vision
+Scientific data analysis
+AI-based visualization
+
+
+Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/yata-pavan-kumar-51176518b/"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://portfolio-3wjs.onrender.com/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> <a href="https://github.com/Pavanyata999"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br> <div align="center">
+I enjoy building AI systems that turn ideas, data, and research into something useful.
+
+Always learning. Always building.
+
+</div> ```
