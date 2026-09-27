@@ -4,12 +4,12 @@
 
 ### AI Engineer | Generative AI | Agentic AI | Machine Learning | Computer Vision | GeoAI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=850&lines=Hello+there!;Building+AI+systems+for+real-world+problems;Generative+AI+%7C+Agentic+AI+%7C+RAG;Computer+Vision+%7C+Deep+Learning+%7C+GeoAI;Satellite+AI+%7C+Remote+Sensing+%7C+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Hello+there!;Building+AI+systems+for+real-world+problems;Generative+AI+%7C+Agentic+AI+%7C+RAG;Computer+Vision+%7C+Deep+Learning+%7C+GeoAI;Satellite+AI+%7C+Remote+Sensing+%7C+Machine+Learning" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/Pavanyata999">
-<img src="https://img.shields.io/badge/GitHub-Pavanyata999-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Pavanyata999-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yata-pavan-kumar-51176518b/">
@@ -17,18 +17,18 @@
 </a>
 
 <a href="https://portfolio-3wjs.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Pavanyata999&label=Profile%20Views&color=2F80ED&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Pavanyata999&label=Profile%20Views&color=2F81F7&style=flat-square"/>
 
 </div>
 
 ---
 
-## About Me
+## <a href="https://github.com/Pavanyata999">About Me</a>
 
 I am a final-year **B.Tech Artificial Intelligence student at Anurag University, Hyderabad**, focused on building practical AI systems across **Generative AI, Agentic AI, Machine Learning, Computer Vision and GeoAI**.
 
@@ -36,7 +36,7 @@ I have research experience with **NRSC – ISRO**, working with satellite and pr
 
 My work spans the AI development lifecycle, from **data processing and model development to LLM applications, retrieval systems, APIs and deployment**.
 
-I enjoy building AI systems that combine **machine learning, software engineering and real-world data** to solve practical problems.
+I enjoy building systems that combine **machine learning, software engineering and real-world data** to solve practical problems.
 
 ---
 
@@ -74,7 +74,7 @@ I enjoy building AI systems that combine **machine learning, software engineerin
 ## RAG & AI Engineering
 
 <p>
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-2F81F7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -85,14 +85,14 @@ I enjoy building AI systems that combine **machine learning, software engineerin
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ## GeoAI & Scientific Computing
 
 <p>
-<img src="https://img.shields.io/badge/Xarray-Data%20Analysis-0F9D58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Xarray-Data%20Analysis-2F81F7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NetCDF-Scientific%20Data-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
@@ -101,13 +101,13 @@ I enjoy building AI systems that combine **machine learning, software engineerin
 
 # Featured Projects
 
-## 01. SAR-Based Marine Oil Spill Detection
+## 01 — SAR-Based Marine Oil Spill Detection
 
 ### Deep Learning for SAR Satellite Imagery
 
 A deep learning-based semantic segmentation system for detecting **marine oil spills from SAR satellite imagery**.
 
-The system works with satellite imagery from **Sentinel-1 and ALOS PALSAR** and uses a hybrid deep learning architecture for segmentation.
+The system works with **Sentinel-1 and ALOS PALSAR** satellite imagery and uses a hybrid deep learning architecture for segmentation.
 
 ### Architecture
 
@@ -134,13 +134,15 @@ The system works with satellite imagery from **Sentinel-1 and ALOS PALSAR** and 
 
 `Python` `PyTorch` `SegNet` `DeepLabV3+` `Computer Vision` `SAR` `Remote Sensing`
 
+<br>
+
 <a href="https://github.com/Pavanyata999/Oil_Spill_Hybrid">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-## 02. AegisRAG
+## 02 — AegisRAG
 
 ### Provenance-Aware Risk Gating Framework for Trustworthy Agentic RAG
 
@@ -160,13 +162,15 @@ A framework focused on improving the reliability of **Agentic Retrieval-Augmente
 
 `Python` `LLMs` `RAG` `LangChain` `Agentic AI` `Vector Search`
 
+<br>
+
 <a href="https://github.com/Pavanyata999/AigesRAG">
-<img src="https://img.shields.io/badge/View%20AegisRAG-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20AegisRAG-2F81F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-## 03. VARSHA-AI
+## 03 — VARSHA-AI
 
 ### GeoAI-Powered Precipitation Intelligence and Visualization System for India
 
@@ -204,7 +208,7 @@ An AI-powered rainfall intelligence platform for analyzing historical precipitat
 
 ---
 
-## 04. LLM Document Question Answering
+## 04 — LLM Document Question Answering
 
 ### Retrieval-Augmented Generation System
 
