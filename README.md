@@ -217,8 +217,6 @@ The system combines **machine learning, scientific data processing, geospatial a
 
 ### Retrieval-Augmented Generation System
 
-A document question-answering system that combines **semantic retrieval with LLM generation** to provide answers grounded in relevant document context.
-
 ### Pipeline
 
 ```text
@@ -239,31 +237,63 @@ Relevant Context
 LLM
      ↓
 Grounded Answer
-Technologies
+```
 
-Python FastAPI LangChain FAISS OpenAI Embeddings Hugging Face Ollama
+### Technologies
 
-<br> <a href="https://github.com/Pavanyata999/hackrx-fastapi-qa"> <img src="https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github&logoColor=white"/> </a>
-Experience
-Research Intern — NRSC, ISRO
+`Python` `FastAPI` `LangChain` `FAISS` `OpenAI Embeddings` `Hugging Face` `Ollama`
 
-Worked on AI-driven analysis of satellite and precipitation data, with a focus on using machine learning and scientific data processing for environmental intelligence.
+<br>
 
-Areas of Work
-Satellite data processing
-GeoAI
-Remote sensing
-Precipitation intelligence
-Deep learning
-Computer vision
-Scientific data analysis
-AI-based visualization
+<a href="https://github.com/Pavanyata999/hackrx-fastapi-qa">
+<img src="https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+---
 
-Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/yata-pavan-kumar-51176518b/"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://portfolio-3wjs.onrender.com/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> <a href="https://github.com/Pavanyata999"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br> <div align="center">
-I enjoy building AI systems that turn ideas, data, and research into something useful.
+# Experience
 
-Always learning. Always building.
+## Research Intern — NRSC, ISRO
 
-</div> ```
+Worked on AI-driven analysis of satellite and precipitation data, with a focus on machine learning, scientific data processing, and environmental intelligence.
+
+### Areas of Work
+
+- Satellite data processing
+- GeoAI
+- Remote sensing
+- Precipitation intelligence
+- Deep learning
+- Computer vision
+- Scientific data analysis
+- AI-based visualization
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yata-pavan-kumar-51176518b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-3wjs.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pavanyata999">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### I enjoy building AI systems that turn ideas, data, and research into something useful.
+
+**Always learning. Always building.**
+
+</div>
