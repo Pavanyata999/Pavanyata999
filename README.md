@@ -28,15 +28,17 @@
 
 ---
 
-## <a href="https://github.com/Pavanyata999">About Me</a>
+## About Me
 
-I am a final-year **B.Tech Artificial Intelligence student at Anurag University, Hyderabad**, focused on building practical AI systems across **Generative AI, Agentic AI, Machine Learning, Computer Vision and GeoAI**.
+I am an **Artificial Intelligence engineer focused on building practical AI systems** across Generative AI, Agentic AI, Machine Learning, Computer Vision, and GeoAI.
 
-I have research experience with **NRSC – ISRO**, working with satellite and precipitation data for AI-driven environmental intelligence.
+I completed my **B.Tech in Artificial Intelligence at Anurag University, Hyderabad**, where I worked on a range of AI and machine learning projects involving real-world datasets, satellite imagery, computer vision, and LLM-based applications.
 
-My work spans the AI development lifecycle, from **data processing and model development to LLM applications, retrieval systems, APIs and deployment**.
+I also gained research experience with **NRSC – ISRO**, working with satellite and precipitation data for AI-driven environmental intelligence.
 
-I enjoy building systems that combine **machine learning, software engineering and real-world data** to solve practical problems.
+My interests have gradually moved from building individual ML models toward building **complete AI systems** — from data processing and model development to retrieval, LLM integration, APIs, and deployment.
+
+I enjoy understanding how things work under the hood and turning an idea into something that can actually be used.
 
 ---
 
@@ -107,20 +109,21 @@ I enjoy building systems that combine **machine learning, software engineering a
 
 A deep learning-based semantic segmentation system for detecting **marine oil spills from SAR satellite imagery**.
 
-The system works with **Sentinel-1 and ALOS PALSAR** satellite imagery and uses a hybrid deep learning architecture for segmentation.
+The project uses **Sentinel-1 and ALOS PALSAR** satellite imagery and explores a hybrid deep learning approach for identifying oil-spill regions in challenging marine environments.
 
 ### Architecture
 
 **SegNet + DeepLabV3+**
 
-### Key Areas
+### What I Worked On
 
-- SAR satellite image processing
-- Semantic segmentation
-- Deep learning
+- SAR satellite image preprocessing
+- Image segmentation
+- Deep learning model development
+- Satellite image analysis
 - Computer vision
-- Remote sensing
-- Marine oil spill detection
+- Model evaluation
+- Remote sensing workflows
 
 ### Reported Results
 
@@ -146,7 +149,7 @@ The system works with **Sentinel-1 and ALOS PALSAR** satellite imagery and uses 
 
 ### Provenance-Aware Risk Gating Framework for Trustworthy Agentic RAG
 
-A framework focused on improving the reliability of **Agentic Retrieval-Augmented Generation systems** through retrieval, evidence grounding, provenance tracking and risk-aware response handling.
+A framework exploring how **Agentic RAG systems can be made more reliable and grounded** by combining retrieval, evidence, provenance, and risk-aware response handling.
 
 ### Core Components
 
@@ -174,7 +177,9 @@ A framework focused on improving the reliability of **Agentic Retrieval-Augmente
 
 ### GeoAI-Powered Precipitation Intelligence and Visualization System for India
 
-An AI-powered rainfall intelligence platform for analyzing historical precipitation data and generating rainfall forecasts across India.
+An AI-powered rainfall intelligence platform built to analyze historical precipitation data and generate rainfall forecasts across India.
+
+The system combines **machine learning, scientific data processing, geospatial analysis, and interactive visualization**.
 
 ### Key Features
 
@@ -183,8 +188,8 @@ An AI-powered rainfall intelligence platform for analyzing historical precipitat
 - Annual rainfall forecasting
 - Monthly rainfall analysis
 - Seasonal analysis
-- Interactive visualization
-- NetCDF scientific data processing
+- Interactive Plotly visualization
+- NetCDF data processing
 - XGBoost-based forecasting
 
 ### Model
@@ -212,9 +217,9 @@ An AI-powered rainfall intelligence platform for analyzing historical precipitat
 
 ### Retrieval-Augmented Generation System
 
-A RAG-based document intelligence system that retrieves relevant information from documents and uses an LLM to generate context-grounded answers.
+A document question-answering system that combines **semantic retrieval with LLM generation** to provide answers grounded in relevant document context.
 
-### Architecture
+### Pipeline
 
 ```text
 Documents
@@ -234,3 +239,4 @@ Relevant Context
 LLM
      ↓
 Grounded Answer
+
