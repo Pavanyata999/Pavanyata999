@@ -2,13 +2,21 @@
 
 # Yata Pavan Kumar
 
-### AI Engineer | Generative AI | Agentic AI | Computer Vision | GeoAI
+### AI Engineer | Generative AI | Agentic AI | Machine Learning | Computer Vision | GeoAI
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pavanyata999-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Pavanyata999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yata%20Pavan%20Kumar-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yata-pavan-kumar-51176518b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?style=flat-square\&logo=googlechrome\&logoColor=white)](https://portfolio-3wjs.onrender.com/)
+<p>
+  <a href="https://github.com/Pavanyata999">
+    <img src="https://img.shields.io/badge/GitHub-Pavanyata999-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yata-pavan-kumar-51176518b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yata%20Pavan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-3wjs.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pavanyata999\&label=Profile%20Views\&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=Pavanyata999&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 
 </div>
 
@@ -16,155 +24,205 @@
 
 ## About Me
 
-I am a final-year **B.Tech Artificial Intelligence student at Anurag University, Hyderabad**, focused on building practical AI systems across Generative AI, Machine Learning, Computer Vision, and GeoAI.
+I am a **B.Tech Artificial Intelligence graduate from Anurag University, Hyderabad**, focused on building practical AI systems across **Generative AI, Agentic AI, Machine Learning, Computer Vision and GeoAI**.
 
-My work combines **AI research, deep learning, LLM applications, retrieval systems, satellite data analysis, and backend engineering**.
+I have research experience with **NRSC – ISRO**, working with satellite and precipitation data for AI-driven environmental intelligence.
 
-I have research experience with **NRSC – ISRO**, where I worked on satellite and precipitation data analysis for AI-driven environmental intelligence.
+My work spans the complete AI development lifecycle — from **data processing and model development to retrieval systems, LLM applications, APIs and deployment**.
 
-Currently, I am particularly interested in:
+### Current Focus
 
-* Generative AI and LLM Engineering
-* Agentic AI and RAG systems
-* Computer Vision and Deep Learning
-* Remote Sensing and Satellite AI
-* GeoAI and Climate Intelligence
-* AI Engineering and MLOps
-
----
-
-## Research & Projects
-
-### 1. SAR-Based Marine Oil Spill Detection
-
-A deep learning based segmentation system for detecting marine oil spills from SAR satellite imagery.
-
-**Research focus**
-
-* Sentinel-1 and ALOS PALSAR satellite imagery
-* SAR image processing
-* Semantic segmentation
-* Deep learning
-* Remote sensing
-* Marine oil spill detection
-
-**Architecture**
-
-`SegNet + DeepLabV3+`
-
-**Reported results**
-
-| Metric   | Result |
-| -------- | -----: |
-| Accuracy | 94.85% |
-| IoU      | 0.5685 |
-| ROC-AUC  | 0.9330 |
-
-**Technologies**
-
-`Python` `PyTorch` `Deep Learning` `Computer Vision` `SAR` `Remote Sensing`
-
-[View Repository](https://github.com/Pavanyata999/Oil_Spill_Hybrid)
+* Generative AI & LLM Engineering
+* Agentic AI systems
+* Retrieval-Augmented Generation (RAG)
+* Computer Vision & Deep Learning
+* Remote Sensing & Satellite AI
+* GeoAI & Climate Intelligence
+* AI Engineering & MLOps
 
 ---
 
-### 2. AegisRAG
+# Technical Skills
 
-**A Provenance-Aware Risk Gating Framework for Trustworthy Agentic Retrieval-Augmented Generation**
+### Programming & Data
 
-A framework exploring reliable and grounded Agentic RAG systems through retrieval, provenance, evidence grounding, and risk-aware response handling.
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github" />
+</p>
 
-**Focus areas**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Machine Learning & Deep Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+### Generative AI & LLM
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+### RAG & AI Engineering
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+### GeoAI & Scientific Computing
+
+![Xarray](https://img.shields.io/badge/Xarray-Data%20Analysis-0F9D58?style=for-the-badge)
+![NetCDF](https://img.shields.io/badge/NetCDF-Scientific%20Data-005571?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
+
+---
+
+# Research & Featured Projects
+
+## 01. SAR-Based Marine Oil Spill Detection
+
+### Deep Learning for SAR Satellite Imagery
+
+A deep learning-based semantic segmentation system for detecting **marine oil spills from SAR satellite imagery**.
+
+**Research Area:** Remote Sensing · Computer Vision · Deep Learning · Satellite AI
+
+### Dataset
+
+* **Sentinel-1**
+* **ALOS PALSAR**
+
+### Architecture
+
+**SegNet + DeepLabV3+**
+
+### Reported Results
+
+| Metric   |   Result   |
+| :------- | :--------: |
+| Accuracy | **94.85%** |
+| IoU      | **0.5685** |
+| ROC-AUC  | **0.9330** |
+
+### Technologies
+
+`Python` `PyTorch` `SegNet` `DeepLabV3+` `SAR` `Remote Sensing`
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Pavanyata999/Oil_Spill_Hybrid)
+
+---
+
+## 02. AegisRAG
+
+### Provenance-Aware Risk Gating Framework for Trustworthy Agentic RAG
+
+A framework focused on improving the reliability of **Agentic Retrieval-Augmented Generation** through evidence grounding, provenance and risk-aware response handling.
+
+### Core Components
 
 * Retrieval-Augmented Generation
 * Agentic AI
-* LLM applications
-* Provenance tracking
+* LLM-based reasoning
 * Evidence grounding
-* Risk-aware response generation
-* Trustworthy AI
+* Provenance tracking
+* Risk-aware response gating
+* Vector search
 
-**Technologies**
+### Technologies
 
-`Python` `RAG` `LLMs` `LangChain` `Vector Search` `Agentic AI`
+`Python` `LLMs` `RAG` `LangChain` `Agentic AI` `Vector Search`
 
-[View Repository](https://github.com/Pavanyata999/AigesRAG)
+[![Repository](https://img.shields.io/badge/View%20AegisRAG-181717?style=for-the-badge\&logo=github)](https://github.com/Pavanyata999/AigesRAG)
 
 ---
 
-### 3. VARSHA-AI
+## 03. VARSHA-AI
 
-**GeoAI-Powered Precipitation Intelligence and Visualization System for India**
+### GeoAI-Powered Precipitation Intelligence & Visualization System for India
 
-An AI-based rainfall intelligence platform for analyzing historical precipitation data and generating rainfall forecasts across India.
+An AI-powered rainfall intelligence platform designed to analyze historical precipitation data and generate rainfall forecasts across India.
 
-**Capabilities**
+### Key Features
 
 * State-wise rainfall forecasting
-* Historical rainfall analysis
+* Historical precipitation analysis
 * Annual rainfall forecasting
-* Monthly and seasonal analysis
-* Interactive visualization
-* NetCDF scientific data processing
-* XGBoost-based forecasting
+* Monthly rainfall analysis
+* Seasonal analysis
+* Interactive Plotly visualizations
+* NetCDF data processing
+* XGBoost forecasting
 
-**Model**
+### Model Performance
 
-`XGBoost`
+**Training:** 1901–2015
+**Testing:** 2016–2025
 
-**Reported evaluation**
+| Metric |    Result    |
+| :----- | :----------: |
+| RMSE   | **41.87 mm** |
+| MAE    | **20.61 mm** |
+| R²     |  **0.9543**  |
 
-* RMSE: 41.87 mm
-* MAE: 20.61 mm
-* R²: 0.9543
-
-**Technologies**
+### Technologies
 
 `Python` `XGBoost` `Pandas` `Xarray` `NetCDF` `Plotly` `GeoAI`
 
 ---
 
-### 4. LLM Document Question Answering
+## 04. LLM Document Question Answering
 
-A Retrieval-Augmented Generation system for document-based question answering.
+### Retrieval-Augmented Generation System
 
-**Pipeline**
+A document question-answering system that combines semantic retrieval with LLM generation to produce context-grounded answers.
+
+### Architecture
 
 ```text
 Documents
-    ↓
-Document Processing
-    ↓
+     ↓
+Document Loading
+     ↓
 Text Chunking
-    ↓
+     ↓
 Embeddings
-    ↓
+     ↓
 FAISS Vector Store
-    ↓
+     ↓
 Semantic Retrieval
-    ↓
+     ↓
 Relevant Context
-    ↓
+     ↓
 LLM
-    ↓
-Grounded Response
+     ↓
+Grounded Answer
 ```
 
-**Technologies**
+### Technologies
 
 `Python` `FastAPI` `LangChain` `FAISS` `OpenAI Embeddings` `Hugging Face` `Ollama`
 
-[View Repository](https://github.com/Pavanyata999/hackrx-fastapi-qa)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Pavanyata999/hackrx-fastapi-qa)
 
 ---
 
-## Experience
+# Experience
 
-### Research Intern — NRSC, ISRO
+## Research Intern — NRSC, ISRO
 
-Worked on AI-driven analysis of satellite and precipitation data.
+Worked on AI-driven analysis of **satellite and precipitation data** for environmental intelligence.
 
-**Areas of work**
+### Areas of Work
 
 * Satellite data processing
 * GeoAI
@@ -173,95 +231,83 @@ Worked on AI-driven analysis of satellite and precipitation data.
 * Deep learning
 * Computer vision
 * Scientific data analysis
+* AI-based visualization
 
 ---
 
-## Technical Skills
+# Research
 
-### Programming & Data
+## SAR-Based Marine Oil Spill Detection Using DeepSegFusion Architecture
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+Research focused on developing a hybrid deep-learning architecture for marine oil-spill segmentation using SAR satellite imagery.
 
-### Machine Learning & Deep Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
-
-### Generative AI & LLMs
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-
-### AI Engineering & Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-### Data & Scientific Computing
-
-![Xarray](https://img.shields.io/badge/Xarray-Data%20Analysis-0F9D58?style=flat-square)
-![NetCDF](https://img.shields.io/badge/NetCDF-Scientific%20Data-005571?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square\&logo=plotly\&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=flat-square)
+**Architecture:** SegNet + DeepLabV3+
+**Data:** Sentinel-1 + ALOS PALSAR
+**Domain:** Remote Sensing / Computer Vision / Environmental AI
 
 ---
 
-## Education
+# Education
 
-**B.Tech — Artificial Intelligence**
+### B.Tech — Artificial Intelligence
 
-Anurag University, Hyderabad
-2022 – 2026
+**Anurag University, Hyderabad**
 
-**CGPA:** 8.2
+**2022 – 2026**
 
----
-
-## Areas of Interest
-
-```text
-Generative AI
-Agentic AI
-LLM Engineering
-Retrieval-Augmented Generation
-Machine Learning
-Computer Vision
-Deep Learning
-Remote Sensing
-GeoAI
-AI Engineering
-MLOps
-```
+**CGPA: 8.2**
 
 ---
 
-## Connect
+# AI & Engineering Interests
 
-**LinkedIn:**
-https://www.linkedin.com/in/yata-pavan-kumar-51176518b/
-
-**Portfolio:**
-https://portfolio-3wjs.onrender.com/
-
-**GitHub:**
-https://github.com/Pavanyata999
+| Area             | Focus                                   |
+| ---------------- | --------------------------------------- |
+| Generative AI    | LLM Applications, Prompt Engineering    |
+| Agentic AI       | AI Agents, Tool Use, Reasoning          |
+| RAG              | Retrieval, Embeddings, Vector Databases |
+| Machine Learning | Supervised Learning, Forecasting        |
+| Computer Vision  | Detection, Segmentation                 |
+| GeoAI            | Satellite & Geospatial Intelligence     |
+| Deep Learning    | PyTorch, TensorFlow                     |
+| AI Engineering   | APIs, Deployment, MLOps                 |
 
 ---
+
+# GitHub Statistics
 
 <div align="center">
 
-### Building AI systems that connect research with real-world applications.
+<img src="https://github-readme-stats.vercel.app/api?username=Pavanyata999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanyata999&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yata-pavan-kumar-51176518b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-3wjs.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pavanyata999">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Building AI systems that connect research, engineering and real-world applications.**
 
 </div>
